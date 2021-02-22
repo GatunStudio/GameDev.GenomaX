@@ -10,5 +10,6 @@ Jogo feito para uma gamejam, com base no tema #evolução.
 # Publicação
   A parte da publicação foi feita na gamejolt, assim, todos que estavam participando conseguiram acessar utilizando uma hashtag em comum.
   <hr/>
+  
 # Saiba mais
   Fique por dentro acessando o meu portfólio da gamejolt.
