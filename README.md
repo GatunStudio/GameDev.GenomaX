@@ -12,4 +12,4 @@ Jogo feito para uma gamejam, com base no tema #evolução.
   <hr/>
   
 # Saiba mais
-  Fique por dentro acessando o meu portfólio da gamejolt.
+  Fique por dentro acessando o meu <a target="_blank" rel="noopener noreferrer" href="https://wonderfulcaco.gamejolt.io">o meu portfólio</a>
