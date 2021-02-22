@@ -1,4 +1,4 @@
-# Genoma
+# Genoma X (GameDev)
 Jogo feito para uma gamejam, com base no tema #evolução. 
 
 # O que é uma gamejam?
