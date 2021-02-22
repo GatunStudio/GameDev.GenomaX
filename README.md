@@ -8,8 +8,8 @@ Jogo feito para uma gamejam, com base no tema #evolução.
   O projeto foi feito em parceria com **Diogo Melo**, de forma que conseguimos dividir e organizar o trabalho, a parte de programação e dev foi feita por mim, já o design de personagens e mapas foi criada pelo Diogo Melo. O projeto foi compilado em **CSharp e JavaScript**, utilizando a engine **Unity3D**
 
 # Publicação
-  A parte da publicação foi feita na gamejolt, assim, todos que estavam participando conseguiram acessar utilizando uma hashtag em comum.
+  A parte da publicação foi feita na GameJolt, assim, todos que estavam participando conseguiram acessar utilizando uma hashtag em comum.
   <hr/>
   
 # Saiba mais
-  Fique por dentro acessando o meu <a target="_blank" rel="noopener noreferrer" href="https://wonderfulcaco.gamejolt.io">o meu portfólio</a>
+  Fique por dentro acessando o meu <a target="_blank" rel="noopener noreferrer" href="https://wonderfulcaco.gamejolt.io">portfólio na GameJolt</a>
